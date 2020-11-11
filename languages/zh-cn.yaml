@@ -13,7 +13,7 @@ tw.menuBar.60off:
 tw.menuBar.60on:
   englishMessage: Turn on 60 FPS mode
   description: Menu bar item for turning on 60 FPS mode
-  message: 關閉六十 FPS模式
+  message: null
 tw.menuBar.changeUsername:
   englishMessage: Change Username
   description: Menu bar item for changing the username
