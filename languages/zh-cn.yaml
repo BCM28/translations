@@ -1,11 +1,11 @@
 tw.gui.crashMessage.description:
   englishMessage: We are so sorry, but it looks like TurboWarp has crashed. Please refresh your page to try again.
   description: Message to inform the user that page has crashed.
-  message: null
+  message: 很抱歉，TurboWarp似乎崩潰了。 請刷新頁面以重試。
 tw.loadingMessage:
   englishMessage: Loading project …
   description: Default loading message
-  message: null
+  message: 正在載入專案…
 tw.menuBar.60off:
   englishMessage: Turn off 60 FPS mode
   description: Menu bar item for turning off 60 FPS mode
@@ -13,7 +13,7 @@ tw.menuBar.60off:
 tw.menuBar.60on:
   englishMessage: Turn on 60 FPS mode
   description: Menu bar item for turning on 60 FPS mode
-  message: null
+  message: 關閉六十 FPS模式
 tw.menuBar.changeUsername:
   englishMessage: Change Username
   description: Menu bar item for changing the username
